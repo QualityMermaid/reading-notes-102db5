@@ -80,6 +80,6 @@ Here is a list on commands and other cheats we learned and I can access easily h
 
 ## Final thoughts
 
-### Just keep swimming. You will get there!
+***Just keep swimming. You will get there!***
 ![QualityMermaid image](OpheraMermaid.png)
 
