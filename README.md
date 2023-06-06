@@ -44,6 +44,9 @@ For me having a growth mindset means I and others have the ability to expand our
 ## Useful information during course
 Here is a list on commands and other cheats we learned and I can access easily here using this page as a 'cheat sheet'
 
+### Terminology 
+- acp (access commit push)
+
 ### Terminal
 - pwd (print working directory, tells me where I am currently)
 - ls (list, lists what files are currently in the location and not hidden)
@@ -72,7 +75,7 @@ Here is a list on commands and other cheats we learned and I can access easily h
 - git status (will tell you the status of the file, red means untracked files)
 - git add . (stages the enviroment)
 - git commit -m "XXX"(add a message in the XXX for why you are commiting the code)
-- git push (pushes my local code in git into github)
+- git push (pushes my local code in git into github which is remote)
 
 #### Extentions
 - Better Comments
