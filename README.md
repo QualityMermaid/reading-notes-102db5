@@ -1,6 +1,5 @@
 # reading-notes-102db5 - Page being updated during course 5th June 2023
 
-
 **Document Content**
 
 - Introduction
