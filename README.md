@@ -70,7 +70,9 @@ Here is a list on commands and other cheats we learned and I can access easily h
 - ! (when using a blank html file can use ! to autofill in VSCode
 - command+s (saves file. if the circle is white it means its not saved!)
 - git status (will tell you the status of the file, red means untracked files)
-- 
+- git add . (stages the enviroment)
+- git commit -m "XXX"(add a message in the XXX for why you are commiting the code)
+- git push (pushes my local code in git into github)
 
 #### Extentions
 - Better Comments
