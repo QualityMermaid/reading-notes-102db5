@@ -41,5 +41,5 @@ For me having a growth mindset means to undertand that I and other have the abil
 
 ## Final thoughts
 ### Just keep swimming. You will get there!
-![QualityMermaid image](https://scontent-lcy1-2.xx.fbcdn.net/v/t39.30808-6/347439970_1308507819773866_843173614353055108_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=i2eMchO8wFkAX8K3ITC&_nc_ht=scontent-lcy1-2.xx&oh=00_AfDmWFdwfH7zEMfh5fAkJ2KLgn-jurKFpQBg9Zn6Wn_52A&oe=648469B5)
+![QualityMermaid image](OpheraMermaid.png)
 
