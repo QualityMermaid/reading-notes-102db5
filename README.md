@@ -19,11 +19,10 @@ When I am not at work you will find me:
 - With my Son (he is currently 2), Husband and Cat
 - Playing Video Games or Boardgames (Currently Zelda Tears of the Kingdom)
 - Wild swimming! Anywhere I can swim with my tail
+![JessicaBane.TestingMermaid](https://pbs.twimg.com/profile_banners/2798096399/1566222131/1500x500)
 
-Twitter: @OpheraBane
-LinkedIn: https://www.linkedin.com/in/jessica-bane-testing-mermaid/
-
-![QualityMermaid image](https://scontent-lcy1-2.xx.fbcdn.net/v/t39.30808-6/347439970_1308507819773866_843173614353055108_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=i2eMchO8wFkAX8K3ITC&_nc_ht=scontent-lcy1-2.xx&oh=00_AfDmWFdwfH7zEMfh5fAkJ2KLgn-jurKFpQBg9Zn6Wn_52A&oe=648469B5)
+Twitter: [@OpheraBane](https://twitter.com/OpheraBane)  
+LinkedIn: [JessicaBane](https://www.linkedin.com/in/jessica-bane-testing-mermaid/)
 
 ## About
 
@@ -41,3 +40,8 @@ For me having a growth mindset means to undertand that I and other have the abil
 - Take a break!!! One of the biggest issues I have is to put myself down thinking I cannot do this. When I get into this mindspace I need to take a break from whatever it is I am doing and do something else! Usually it's sewing related.
 - Learn something new each day! Having a Son means I am learning new things all the time. Making sure I take a breather and rememeber that Life IS learning and focusing on the new thing I (or someone else) has learned that day. 
 - Asking myself 'how about?/what if i do this?' other questions like these point me down other avenues to explore. There is no such thing as a dumb question!!! but there is a learning black hole (and sometimes I need to be dragged out).
+
+## Final thoughts
+### Just keep swimming. You will get there!
+![QualityMermaid image](https://scontent-lcy1-2.xx.fbcdn.net/v/t39.30808-6/347439970_1308507819773866_843173614353055108_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=i2eMchO8wFkAX8K3ITC&_nc_ht=scontent-lcy1-2.xx&oh=00_AfDmWFdwfH7zEMfh5fAkJ2KLgn-jurKFpQBg9Zn6Wn_52A&oe=648469B5)
+
