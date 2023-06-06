@@ -66,6 +66,7 @@ Here is a list on commands and other cheats we learned and I can access easily h
 - code . (launches vscode)
 - git clone (will clone reposertry from github)
   - git clone git@github.com:QualityMermaid/TechEducationClone.git (make sure the link in github is the right code version. in this case its SSH)
+- control+r (search back though terminal history)
 
 ### VSCode 
 
