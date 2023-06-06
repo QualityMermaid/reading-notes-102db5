@@ -1,4 +1,4 @@
-# reading-notes-102db5 - Page being updated during course 5th June 2023
+# reading-notes-102d5 - Page being updated during course 5th June 2023
 
 **Document Content**
 
@@ -40,7 +40,46 @@ For me having a growth mindset means I and others have the ability to expand our
 - Learn something new each day! Having a Son means I am learning new things all the time. Making sure I take a breather and rememeber that Life IS learning and focusing on the new thing I (or someone else) has learned that day. 
 - Asking myself 'how about?/what if i do this?' other questions like these point me down other avenues to explore. There is no such thing as a dumb question!!! but there is a learning black hole (and sometimes I need to be dragged out).
 
+## Useful information during course
+Here is a list on commands and other cheats we learned and I can access easily here using this page as a 'cheat sheet'
+
+### Terminal
+- pwd (print working directory, tells me where I am currently)
+- ls (list, lists what files are currently in the location and not hidden)
+- ls -a (shows hidden files)
+- command+k (clears terminal) or clear
+- cd (change directory, cd TechEd/)
+  - cd TechEd/ (takes to TechEd/ file from current directory if it is there)
+  - cd (without anything else will take back to root directory)
+  - cd .. (go up one directory)
+- tab autocompletes (eg type pict then tab to cd into Pictures)
+- mkdir (make directory)
+  - mkdir hello (creates file called hello)
+- rmdir (remove directory)
+  - rmdir hello (removes file hello)
+- touch (creates new file from the terminal) 
+  - touch hello.dm
+- code . (launches vscode)
+
+### VSCode 
+
+#### Commands
+- ! (when using a blank html file can use ! to autofill in VSCode
+- command+s (saves file. if the circle is white it means its not saved!)
+
+#### Extentions
+- Better Comments
+- Error Lens
+- ES7+ React/Redux/React-Native snippets
+- ESLint
+- Indent-rainbow
+- Live Server
+- Prettier - Code Formatter
+- Thunder Client
+- vscode-icons
+
 ## Final thoughts
+
 ### Just keep swimming. You will get there!
 ![QualityMermaid image](OpheraMermaid.png)
 
