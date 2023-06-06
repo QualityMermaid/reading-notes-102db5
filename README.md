@@ -16,6 +16,7 @@ I am dyslixic so please let me know if there are any on here and I will correct 
 When I am not at work you will find me:
 - With my Son (he is currently 2), Husband and Cat
 - Playing Video Games or Boardgames (Currently Zelda Tears of the Kingdom)
+- Sewing! I have currently gotten into bag making
 - Wild swimming! Anywhere I can swim with my tail
 ![JessicaBane.TestingMermaid](https://pbs.twimg.com/profile_banners/2798096399/1566222131/1500x500)
 
@@ -31,7 +32,7 @@ Link to live page [HERE](https://qualitymermaid.github.io/reading-notes-102db5/)
 
 ### What is a Growth Mindset?
 
-For me having a growth mindset means to undertand that I and other have the ability to expand our understanding and grow though learning. This can be hard. You can learn anything if you put your mind to it! Sometimes a more creative approach is needed.
+For me having a growth mindset means I and others have the ability to expand our understanding and grow though learning. This can be hard! But anyone can learn anything if you put your mind to it! Sometimes a more creative approach is needed as not everyone learns the same way.
 
 ### How can I keep myself in the Growth mindset?
 
