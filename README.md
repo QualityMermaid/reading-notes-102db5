@@ -8,7 +8,6 @@
 - Growth Mindset
 - newPages
 
-
 ## Introduction
 
 ***Hello*** my name is Jessica! Feel free to call me Jess/Jessica I do not mind which and my pronouns are she/her.
