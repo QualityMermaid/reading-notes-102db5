@@ -17,7 +17,7 @@ When I am not at work you will find me:
 - With my Son (he is currently 2), Husband and Cat
 - Playing Video Games or Boardgames (Currently Zelda Tears of the Kingdom)
 - Sewing! I have currently gotten into bag making
-[whitebag]() [greenbag](20230528_204011.jpg 50%)
+![greenbag](20230525_164152.jpg) ![whitebag](20230528_204011.jpg)
 - Wild swimming! Anywhere I can swim with my tail
 ![JessicaBane.TestingMermaid](https://pbs.twimg.com/profile_banners/2798096399/1566222131/1500x500)
 
@@ -61,12 +61,16 @@ Here is a list on commands and other cheats we learned and I can access easily h
 - touch (creates new file from the terminal) 
   - touch hello.dm
 - code . (launches vscode)
+- git clone (will clone reposertry from github)
+  - git clone git@github.com:QualityMermaid/TechEducationClone.git (make sure the link in github is the right code version. in this case its SSH)
 
 ### VSCode 
 
 #### Commands
 - ! (when using a blank html file can use ! to autofill in VSCode
 - command+s (saves file. if the circle is white it means its not saved!)
+- git status (will tell you the status of the file, red means untracked files)
+- 
 
 #### Extentions
 - Better Comments
